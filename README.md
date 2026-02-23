@@ -25,14 +25,14 @@ Python
 NumPy
 Pandas
 
-What This Project Demonstrates
+What This Project Demonstrates:
 Data generation with NumPy
 Data manipulation and filtering with Pandas
 Group-based statistical comparison
 Basic anomaly detection using logical conditions
 Exporting structured audit results
 
-Notes
+Notes:
 This is a simulated dataset created for learning purposes.
 The bias and data corruption were intentionally introduced to practice detection techniques.
 Output
